@@ -11,7 +11,7 @@
         <div class="col-6">
             <h1>Contact</h1>
             <p>
-                <a href="https://www.isabelle-caratti.ch/">Isabelle Caratti<br></a>
+                <a href="https://www.isabelle-caratti.ch/" target="_blank">Isabelle Caratti<br></a>
                 Be The Change You Want<br>
                 Coaching School<br>
                 Berne, Suisse <br>
@@ -19,7 +19,7 @@
         </div>
         <!-- Kontakt Formular-->
         <div class="col-6">
-            <form class="row g-3 needs-validation" method="post" action="https://formspree.io/f/xknyzzop" >
+            <form class="row g-3 needs-validation" method="post" action="https://formspree.io/f/xknyzzop">
                 <input type="hidden" name="_language" value="fr" />
                 <div class="col-md-6">
                     <label for="validationCustom01" class="form-label">Prénom</label>
@@ -58,21 +58,21 @@
                 <div class="col-md-12 mb-3">
                     <label for="validationTextarea" class="form-label">Message</label>
                     <textarea class="form-control" name="message" id="validationTextarea" placeholder="your text here" required></textarea>
-                        Veuillez préciser votre Message
-                        <!--Bitte geben Sie Ihre Nachricht in die Textbox ein-->
+                    Veuillez préciser votre Message
+                    <!--Bitte geben Sie Ihre Nachricht in die Textbox ein-->
                 </div>
                 <!-- <div class="col-12">
                     <div class="form-check">
                         <input class="form-check-input" type="checkbox" value="" id="invalidCheck" required>
                         <label class="form-check-label" for="invalidCheck">
                             Veuillez cliquer ici si vous n'êtes pas un robot! -->
-                            <!--Akzeptieren Sie die Bedingungen und Konditionen.-->
-                            <!--später mit AGB hier-->
-                        <!--</label>
+                <!--Akzeptieren Sie die Bedingungen und Konditionen.-->
+                <!--später mit AGB hier-->
+                <!--</label>
                         <div class="invalid-feedback">
                             Veuillez prouver que vous n'êtes pas un robot en cliquant ci-dessus! -->
-                            <!--Sie müssen vor dem Senden zustimmen.-->
-                        <!-- </div>
+                <!--Sie müssen vor dem Senden zustimmen.-->
+                <!-- </div>
                     </div>
                 </div> -->
                 <div class="col-12">

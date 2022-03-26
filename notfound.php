@@ -2612,15 +2612,12 @@ function echoActiveClassIfRequestMatches($requestUri)
         <div class="row">
             <div class="col-md-3"></div>
             <div class="col-12 col-md-6">
-                <h1 class="mt-5 " style="font-size: 100px; font-weight: 900; text-shadow: 5px 5px #6b6b6b;">Error 404 <br>
+                <h1 class="mt-5 " style="font-size: 100px; font-weight: 900; text-shadow: 5px 5px #6b6b6b; color: rgba(155, 21, 21, 0.89);">Error 404 <br>
                     <h2>the requested Page was not found</h2>
                     <p>It seems like you got a little lost. <br>
                         You can return to the main menu <a href="https://bethechangeyouwant.ch/">here</a>,<br>
                         or if you believe there is an error please contact us <a href="https://bethechangeyouwant.ch/contact">here</a>.</p>
                     <p class="mt-5">If your interested in having a nice Website yourself, you can check us (the creators) out <a href="https://gigabite.ch">here</a>.</p>
-                    <div id="runner" class="mb-5 pb-5">
-                        <div class="runner-container" style="width: 670px; height: 150px;"><canvas class="runner-canvas" style="width: 670px; height: 150px;" width="670" height="150"></canvas></div>
-                    </div>
             </div>
             <div class="col-md-3"></div>
         </div>
@@ -2716,22 +2713,6 @@ function echoActiveClassIfRequestMatches($requestUri)
             }
         </script>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
-</body>
-
-</html>
-
-<html>
-
-<head>
-    <title>T-Rex Game</title>
-
-
-<body id="t">
-
-
-
-
-
 </body>
 
 </html>
